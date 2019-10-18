@@ -1,0 +1,5 @@
+D:\Work\Product\SeeCompressFilePassword\Models\bin\Debug\Models.dll
+D:\Work\Product\SeeCompressFilePassword\Models\bin\Debug\Models.pdb
+D:\Work\Product\SeeCompressFilePassword\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Work\Product\SeeCompressFilePassword\Models\obj\Debug\Models.dll
+D:\Work\Product\SeeCompressFilePassword\Models\obj\Debug\Models.pdb

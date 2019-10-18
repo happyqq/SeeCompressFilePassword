@@ -1,0 +1,4 @@
+D:\Work\Product\SeeCompressFilePassword\bin\SCFP_Compress.dll
+D:\Work\Product\SeeCompressFilePassword\bin\SCFP_Compress.pdb
+D:\Work\Product\SeeCompressFilePassword\SharpCompress\obj\Full\Debug\SCFP_Compress.dll
+D:\Work\Product\SeeCompressFilePassword\SharpCompress\obj\Full\Debug\SCFP_Compress.pdb

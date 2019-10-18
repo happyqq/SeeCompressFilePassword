@@ -1,0 +1,9 @@
+D:\Work\Product\BabyBrowser\libcomm\bin\Release\libcomm.dll
+D:\Work\Product\BabyBrowser\libcomm\bin\Release\libcomm.pdb
+D:\Work\Product\BabyBrowser\libcomm\obj\Release\libcomm.dll
+D:\Work\Product\BabyBrowser\libcomm\obj\Release\libcomm.pdb
+D:\Work\Product\BabyBrowser1.0\libcomm\bin\Release\libcomm.dll
+D:\Work\Product\BabyBrowser1.0\libcomm\obj\Release\libcomm.dll
+D:\Work\Product\SeeCompressFilePassword\libcomm\bin\Release\libcomm.dll
+D:\Work\Product\SeeCompressFilePassword\libcomm\obj\Release\libcomm.csprojResolveAssemblyReference.cache
+D:\Work\Product\SeeCompressFilePassword\libcomm\obj\Release\libcomm.dll

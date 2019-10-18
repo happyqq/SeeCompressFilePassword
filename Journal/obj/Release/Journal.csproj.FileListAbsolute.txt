@@ -1,0 +1,5 @@
+C:\Users\Happy\Downloads\Backup-master\Journal\bin\Release\Journal.dll
+C:\Users\Happy\Downloads\Backup-master\Journal\bin\Release\Journal.pdb
+C:\Users\Happy\Downloads\Backup-master\Journal\obj\Release\Journal.csprojResolveAssemblyReference.cache
+C:\Users\Happy\Downloads\Backup-master\Journal\obj\Release\Journal.dll
+C:\Users\Happy\Downloads\Backup-master\Journal\obj\Release\Journal.pdb

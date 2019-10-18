@@ -1,0 +1,9 @@
+C:\Users\Happy\Downloads\Backup-master\Journal\bin\Debug\Journal.dll
+C:\Users\Happy\Downloads\Backup-master\Journal\bin\Debug\Journal.pdb
+C:\Users\Happy\Downloads\Backup-master\Journal\obj\Debug\Journal.csprojResolveAssemblyReference.cache
+C:\Users\Happy\Downloads\Backup-master\Journal\obj\Debug\Journal.dll
+C:\Users\Happy\Downloads\Backup-master\Journal\obj\Debug\Journal.pdb
+D:\Work\Product\SeeCompressFilePassword\Journal\bin\Debug\Journal.dll
+D:\Work\Product\SeeCompressFilePassword\Journal\bin\Debug\Journal.pdb
+D:\Work\Product\SeeCompressFilePassword\Journal\obj\Debug\Journal.dll
+D:\Work\Product\SeeCompressFilePassword\Journal\obj\Debug\Journal.pdb
